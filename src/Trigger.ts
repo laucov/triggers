@@ -11,7 +11,7 @@ export interface Step<T>
     options: Partial<Options>;
 }
 
-export default class Trigger<T>
+export class Trigger<T>
 {
     /**
      * Trigger name.

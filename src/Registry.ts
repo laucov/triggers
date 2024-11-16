@@ -1,10 +1,10 @@
-import Trigger, { Callback, Options } from "./Trigger";
+import { Trigger, Callback, Options } from "./Trigger";
 
-export interface Map
+export interface TriggerMap
 {
 }
 
-export default class Registry<T extends Map = Map>
+export class Registry<T extends TriggerMap = TriggerMap>
 {
     /**
      * Registered callback groups.

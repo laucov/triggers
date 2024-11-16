@@ -1,6 +1,6 @@
 {
   "name": "@laucov/triggers",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Class callback management library.",
   "main": "index.ts",
   "scripts": {
