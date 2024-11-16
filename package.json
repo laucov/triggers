@@ -1,8 +1,10 @@
 {
-  "name": "triggers",
-  "version": "1.0.0",
+  "name": "@laucov/triggers",
+  "version": "1.0.1",
   "description": "Class callback management library.",
-  "main": "rollup.config.js",
+  "exports": {
+    "default": "./sr"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
