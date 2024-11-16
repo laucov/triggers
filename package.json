@@ -1,0 +1,19 @@
+{
+  "name": "triggers",
+  "version": "1.0.0",
+  "description": "Class callback management library.",
+  "main": "rollup.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/laucov/triggers.git"
+  },
+  "author": "Rafael Covaleski <rafael.covaleski@laucov.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/laucov/triggers/issues"
+  },
+  "homepage": "https://github.com/laucov/triggers#readme"
+}
