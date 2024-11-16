@@ -1,9 +1,9 @@
 {
     "compilerOptions": {
         "allowJs": true,
+        "declaration": true,
         "forceConsistentCasingInFileNames": true,
         "module": "ES6",
-        "moduleResolution": "bundler",
         "noImplicitAny": false,
         "outDir": "./dist/",
         "removeComments": true,
